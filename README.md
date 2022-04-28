@@ -9,3 +9,5 @@ pyperclip
 
 pip
 
+Open Terminal{Ctrl+Alt+t}
+
