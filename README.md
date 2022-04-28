@@ -17,3 +17,7 @@ Code .
 
 git clone https://github.com/AdlightAkinyi/password-lock.git
 
+# Technologies 
+python3.8
+
+
