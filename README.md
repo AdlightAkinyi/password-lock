@@ -4,3 +4,6 @@ This project is a python application that manages login and signup credentials o
 Adlight Akinyi
 # Set-up and installation requirements
 python3.8
+
+pyperclip
+
