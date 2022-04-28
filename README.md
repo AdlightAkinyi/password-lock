@@ -24,3 +24,4 @@ python3.8
 adlightakinyi1@gmail.com
 
 # Licence
+MIT Licence
