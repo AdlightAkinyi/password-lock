@@ -20,4 +20,7 @@ git clone https://github.com/AdlightAkinyi/password-lock.git
 # Technologies 
 python3.8
 
+# Support and contact details
+adlightakinyi1@gmail.com
+
 
