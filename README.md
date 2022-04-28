@@ -15,3 +15,5 @@ cd Password-lock
 
 Code .
 
+git clone https://github.com/AdlightAkinyi/password-lock.git
+
