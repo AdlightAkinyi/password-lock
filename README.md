@@ -13,3 +13,5 @@ Open Terminal{Ctrl+Alt+t}
 
 cd Password-lock
 
+Code .
+
